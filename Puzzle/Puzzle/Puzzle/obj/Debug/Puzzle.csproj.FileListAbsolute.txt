@@ -1,0 +1,10 @@
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.frmPuzzleGame.resources
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\jbolo\source\repos\Puzzle\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
